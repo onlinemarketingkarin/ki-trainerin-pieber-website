@@ -1,0 +1,18 @@
+{
+  "allowedBlocks": [
+    "nav",
+    "hero",
+    "richtext",
+    "cards",
+    "schritte",
+    "person",
+    "cta",
+    "footer"
+  ],
+  "requiredBlocks": [
+    "nav",
+    "hero",
+    "cta",
+    "footer"
+  ]
+}

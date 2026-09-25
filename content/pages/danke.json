@@ -1,0 +1,30 @@
+{
+  "slug": "danke",
+  "page_type": "text",
+  "status": "published",
+  "noindex": true,
+  "title": "Vielen Dank für Ihre Anfrage",
+  "description": "Ihre Anfrage ist bei Karin Pieber angekommen.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {
+        "ctaLabel": "",
+        "ctaHref": ""
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "ebene": "1",
+        "layout": "schmal",
+        "titel": "Vielen Dank",
+        "text": "Ihre Anfrage ist bei mir angekommen. Ich melde mich persönlich bei Ihnen.\n\n[Zurück zur Startseite](/)"
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "allowedBlocks": [
+    "nav",
+    "richtext",
+    "cards",
+    "cta",
+    "footer"
+  ],
+  "requiredBlocks": [
+    "nav",
+    "richtext",
+    "footer"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Mag. Karin Pieber",
+  "person": {
+    "vorname": "Karin",
+    "nachname": "Pieber",
+    "titel_vor": "Mag."
+  },
+  "marke": "KI Trainerin Pieber",
+  "titel": "TÜV-zertifizierte KI-Trainerin",
+  "anschrift": {
+    "strasse": "Haignitzhofweg 1",
+    "plz": "8043",
+    "ort": "Graz",
+    "land": "Österreich"
+  },
+  "email": "karin@ki-trainerin-pieber.org",
+  "telefon": "+43 664 3116754",
+  "web": "https://ki-trainerin-pieber.org",
+  "linkedin": "https://www.linkedin.com/in/karin-pieber",
+  "orte": "Graz und remote",
+  "sprachen": "Deutsch und Englisch",
+  "zertifikat": {
+    "stelle": "TÜV Rheinland",
+    "gueltig_von": "Februar 2025",
+    "gueltig_bis": "Februar 2028"
+  },
+  "beruf": {
+    "sozialversicherung_seit": 1993,
+    "bvaeb_seit": "Jänner 2019"
+  },
+  "koerting": {
+    "rolle": "Programmkoordinatorin",
+    "organisation": "KI KOERTING INSTITUTE in Bad Homburg",
+    "programme": "KI Strategieberater:in und Manager:in für angewandte KI Transformation",
+    "seit": "März 2025",
+    "kohorten_pro_jahr": 2
+  },
+  "referenzen": {
+    "zahnklinik_organisation": "Universitätsklinik für Zahnmedizin und Mundgesundheit, Medizinische Universität Graz",
+    "zahnklinik_seit": "Dezember 2025",
+    "zahnklinik_trainings_anzahl": 4,
+    "zahnklinik_tool_url": "https://phd-research-guide.netlify.app"
+  },
+  "recht": {
+    "status": "Neue Selbständige gemäß § 2 Abs. 1 Z 4 GSVG (nebenberuflich zur unselbständigen Tätigkeit). Keine Gewerbeberechtigung, keine Pflichtmitgliedschaft in der Wirtschaftskammer.",
+    "uid": "",
+    "gegenstand": "Trainings, Coachings und Vorträge im Bereich Künstliche Intelligenz und digitale Bildung"
+  },
+  "preise": {
+    "starter": "auf Anfrage",
+    "programm": "nach Zielsetzung und Bedarf"
+  },
+  "hosting": {
+    "anbieter": "IONOS",
+    "standort": "Deutschland (Berlin)",
+    "speicherdauer": "7 Tage",
+    "rechtsgrundlage": "Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der sicheren und stabilen Bereitstellung der Website)"
+  },
+  "kontaktformular": {
+    "dienst": "IONOS",
+    "speicherdauer": "12 Monate"
+  }
+}

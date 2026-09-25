@@ -1,0 +1,134 @@
+{
+  "slug": "ki-gesundheitswesen",
+  "page_type": "angebot",
+  "title": "KI Training für Gesundheitswesen und medizinische Teams",
+  "description": "Praxisnahe KI-Trainings für Ärztinnen, Ärzte, Kliniken und medizinische Teams zu Lehre, Recherche, Kommunikation und sicheren Arbeitsweisen.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {}
+    },
+    {
+      "type": "hero",
+      "data": {
+        "pill": "KI Trainings für Ärztinnen · Ärzte · Kliniken · Medizinische Teams",
+        "titel": "KI sicher im medizinischen Arbeitsalltag nutzen",
+        "sub": "Künstliche Intelligenz kann medizinische Fachpersonen bei Lehre, Recherchevorbereitung, Kommunikation und administrativen Aufgaben unterstützen. Gleichzeitig erfordert der Gesundheitsbereich besondere Sorgfalt im Umgang mit Daten, Quellen und fachlicher Verantwortung.\n\nMeine Trainings konzentrieren sich auf praktische, verantwortungsvoll einsetzbare Anwendungen. Medizinische Entscheidungen, Diagnosen und individuelle Therapieempfehlungen bleiben außerhalb des Trainingsangebots.",
+        "ctaLabel": "Training für ein medizinisches Team anfragen",
+        "ctaHref": "/kontakt?interesse=gesundheit",
+        "bild": "/uploads/ef2a2942-med-uni-graz-campus",
+        "bildAlt": "Campus der Medizinischen Universität Graz"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "kicker": "Hintergrund",
+        "titel": "Meine Erfahrung im Gesundheitswesen",
+        "flaeche": "creme",
+        "text": "Bevor ich KI-Trainerin wurde, habe ich fast drei Jahrzehnte in der österreichischen Sozialversicherung gearbeitet – viele Jahre davon in Projekten, die das Gesundheitswesen selbst betrafen.\n\nBei der Steiermärkischen Gebietskrankenkasse habe ich das interne Intranet und ein Managementinformationssystem aufgebaut. Beim Hauptverband der österreichischen Sozialversicherungsträger habe ich IT-Projekte geleitet, darunter die Einführung von „eSV im Web“, nationale Gesundheitskampagnen und gemeinsam mit der Ärztekammer das Projekt „Vorsorgeuntersuchung Neu“. Bei der VAEB, heute Teil der BVAEB, habe ich ein Gesundheitsförderungsprogramm für Diabetes sowie Serious Games for Health für Gesundheitseinrichtungen konzipiert und umgesetzt.\n\nDiese Erfahrung prägt meine Trainings: Ich kenne Abläufe, Sprache und besondere Anforderungen des Gesundheitswesens aus eigener Praxis, nicht nur aus der Theorie."
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Mögliche Anwendungen",
+        "text": "- Lehrveranstaltungen und Fortbildungen strukturieren\n- Fachtexte und Studien für die weitere Prüfung übersichtlich aufbereiten\n- Forschungsfragen und Suchstrategien vorbereiten\n- Präsentationen, Handouts und Lernmaterialien entwickeln\n- Allgemeine Gesundheitsinformationen verständlicher formulieren\n- Besprechungen und administrative Aufgaben effizient vorbereiten\n- Prompts, Vorlagen und geeignete KI-Assistenten für wiederkehrende Aufgaben entwickeln"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Sicherheit und Verantwortung",
+        "flaeche": "mint",
+        "text": "Personenbezogene Gesundheitsdaten und vertrauliche Informationen werden nicht in nicht freigegebene KI-Systeme eingegeben. Übungen können mit anonymisierten, abstrahierten oder eigens erstellten Beispielen durchgeführt werden.\n\nKI-generierte Inhalte werden als Arbeitsgrundlage verstanden. Quellen, Zahlen, medizinische Aussagen und Formulierungen müssen fachlich geprüft werden, bevor sie verwendet oder weitergegeben werden."
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Mögliche Zielgruppen",
+        "text": "- Ärztinnen und Ärzte mit Lehr- oder Führungsverantwortung\n- Klinische und administrative Teams\n- Universitäten, Fachhochschulen und medizinische Ausbildungsstätten\n- PhD-Studierende und wissenschaftlich tätige Fachpersonen\n- Ordinationen und Gesundheitseinrichtungen"
+      }
+    },
+    {
+      "type": "cards",
+      "data": {
+        "kicker": "Referenz",
+        "titel": "Vier Trainings an der Zahnklinik der Med Uni Graz",
+        "intro": "Seit {{facts.referenzen.zahnklinik_seit}} arbeite ich mit der {{facts.referenzen.zahnklinik_organisation}} zusammen. Die Trainings bauen aufeinander auf: vom ersten Kontakt mit KI bis zur Anwendung im Forschungs- und Publikationsprozess.",
+        "items": [
+          {
+            "titel": "Wie KI denkt – und wie wir sie lenken",
+            "text": "Einstieg für das gesamte Team: Künstliche Intelligenz erlebbar machen, mit Freude, Neugier und Praxisbezug.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "KI-Tools praktisch anwenden",
+            "text": "Von der Idee bis zur Umsetzung: konkrete Anwendungen für Lehre, Forschung und Patientenkommunikation im klinischen Alltag.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "HIT Days: How AI thinks",
+            "text": "Wie generative KI die Literaturrecherche und die Arbeit an Forschungsfragen unterstützen kann, mit Live-Demonstrationen.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "HIT Days: AI Tools from Hypothesis to Publication",
+            "text": "Der Weg von der Literaturrecherche bis zur Konferenzpräsentation – und ein eigens für die Klinik entwickeltes Nachschlage-Tool für den Workshop.",
+            "linkLabel": "Workshop-Tool ansehen",
+            "href": "{{facts.referenzen.zahnklinik_tool_url}}",
+            "stil": "link"
+          }
+        ]
+      }
+    },
+    {
+      "type": "schritte",
+      "data": {
+        "titel": "Workshopstruktur",
+        "items": [
+          {
+            "titel": "Grundlagen und Grenzen generativer KI im Gesundheitsbereich",
+            "text": ""
+          },
+          {
+            "titel": "Auswahl geeigneter Anwendungsfälle für die jeweilige Zielgruppe",
+            "text": ""
+          },
+          {
+            "titel": "Praktische Übungen mit fachnahen, datenschutzgerechten Beispielen",
+            "text": ""
+          },
+          {
+            "titel": "Qualitätsprüfung von Ergebnissen und Quellen",
+            "text": ""
+          },
+          {
+            "titel": "Übertragung auf den eigenen Arbeitsbereich",
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "data": {
+        "titel": "Anfrage",
+        "text": "Teilen Sie mir mit, welche Berufsgruppen teilnehmen, welche Aufgaben im Mittelpunkt stehen und welche KI-Werkzeuge in Ihrer Organisation freigegeben sind. Auf dieser Grundlage erhalten Sie ein maßgeschneidertes Trainingskonzept.",
+        "ctaLabel": "Gesundheitsangebot besprechen",
+        "ctaHref": "/kontakt?interesse=gesundheit"
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ]
+}

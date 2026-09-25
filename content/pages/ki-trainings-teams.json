@@ -1,0 +1,119 @@
+{
+  "slug": "ki-trainings-teams",
+  "page_type": "angebot",
+  "title": "KI Trainings und Workshops für Teams",
+  "description": "Praxisnahe KI-Trainings für Unternehmen, öffentliche Einrichtungen und Teams. Individuell vorbereitet, verständlich vermittelt und direkt anwendbar.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {}
+    },
+    {
+      "type": "hero",
+      "data": {
+        "pill": "Praxisnahe Workshops · Online und vor Ort",
+        "titel": "KI Training für den Arbeitsalltag Ihres Teams",
+        "sub": "Viele Teams erproben bereits einzelne KI-Werkzeuge. Häufig fehlen jedoch gemeinsame Regeln, sichere Arbeitsweisen und ein klares Verständnis dafür, welche Anwendungen tatsächlich sinnvoll sind.\n\nMeine Workshops verbinden verständliche Grundlagen mit konkreten Aufgaben aus Ihrer Organisation. Die Teilnehmenden probieren Anwendungen selbst aus, vergleichen Ergebnisse und entwickeln Vorgehensweisen, die im Arbeitsalltag weiterverwendet werden können.",
+        "ctaLabel": "Workshop anfragen",
+        "ctaHref": "/kontakt?interesse=team",
+        "bild": "/uploads/fc1b6d4a-training-team-workshop",
+        "bildAlt": "Trainerin mit Mikrofon vor einer sitzenden Trainingsgruppe"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Mögliche Ziele",
+        "text": "- Ein gemeinsames Grundverständnis für generative KI aufbauen\n- Geeignete Anwendungsfälle für das Team identifizieren\n- Gute Prompts und wiederverwendbare Vorlagen entwickeln\n- Ergebnisse systematisch prüfen und verbessern\n- Datenschutz, Vertraulichkeit und Verantwortung berücksichtigen\n- Unsicherheiten abbauen und einen reflektierten Einsatz fördern"
+      }
+    },
+    {
+      "type": "cards",
+      "data": {
+        "titel": "Formate",
+        "items": [
+          {
+            "titel": "Impulsvortrag",
+            "text": "Ein kompakter Überblick für Veranstaltungen, Führungskreise oder größere Gruppen. Inhalte und Beispiele werden auf die Zielgruppe abgestimmt.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Halbtägiger Praxisworkshop",
+            "text": "Ein handlungsorientiertes Format mit kurzen Inputs, Übungen und konkreten Beispielen aus dem Arbeitsbereich der Teilnehmenden.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Ganztägiges Training",
+            "text": "Mehr Zeit für Grundlagen, Übungen, Transfer und die gemeinsame Entwicklung geeigneter Arbeitsweisen.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Trainingsreihe",
+            "text": "Mehrere aufeinander aufbauende Termine ermöglichen Anwendung zwischen den Einheiten, Erfahrungsaustausch und nachhaltigen Kompetenzaufbau.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Train the Trainer",
+            "text": "Ein Format für Personen, die KI-Kompetenz in ihrer Organisation selbst weitervermitteln sollen.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          }
+        ]
+      }
+    },
+    {
+      "type": "schritte",
+      "data": {
+        "titel": "Typischer Ablauf",
+        "items": [
+          {
+            "titel": "Vorgespräch",
+            "text": "Ziele, Zielgruppe, vorhandene Werkzeuge und organisatorische Rahmenbedingungen werden geklärt."
+          },
+          {
+            "titel": "Vorbereitung",
+            "text": "Beispiele und Übungen werden an die Aufgaben des Teams angepasst."
+          },
+          {
+            "titel": "Durchführung",
+            "text": "Die Teilnehmenden arbeiten aktiv mit und prüfen die Ergebnisse gemeinsam."
+          },
+          {
+            "titel": "Transfer",
+            "text": "Vorlagen, Checklisten und nächste Schritte unterstützen die Anwendung nach dem Training."
+          }
+        ]
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Technische Voraussetzungen",
+        "flaeche": "mint",
+        "text": "Für Praxisworkshops benötigen die Teilnehmenden in der Regel einen eigenen Laptop und Zugang zu den vereinbarten KI-Anwendungen. Details werden vor dem Termin gemeinsam geklärt. Bei internen Vorgaben stimmen wir die Übungen auf die freigegebenen Werkzeuge ab."
+      }
+    },
+    {
+      "type": "cta",
+      "data": {
+        "titel": "Anfrage",
+        "text": "Nennen Sie mir Zielgruppe, ungefähre Teilnehmerzahl, gewünschtes Format und die wichtigsten Aufgaben Ihres Teams. Auf dieser Grundlage erhalten Sie einen konkreten Vorschlag.",
+        "ctaLabel": "Training für Ihr Team anfragen",
+        "ctaHref": "/kontakt?interesse=team"
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ]
+}

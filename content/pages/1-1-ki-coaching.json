@@ -1,0 +1,109 @@
+{
+  "slug": "1-1-ki-coaching",
+  "page_type": "angebot",
+  "title": "1:1 KI Coaching für Führungskräfte und Fachpersonen",
+  "description": "Persönliches KI-Coaching mit Karin Pieber. Arbeiten Sie direkt an Ihren Aufgaben und entwickeln Sie sichere, wiederverwendbare KI-Arbeitsweisen.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {}
+    },
+    {
+      "type": "hero",
+      "data": {
+        "pill": "TÜV-zertifizierte KI-Trainerin · Persönliches Coaching",
+        "titel": "KI Coaching für Ihre konkreten Aufgaben",
+        "sub": "Sie möchten Künstliche Intelligenz nutzen, aber keine Zeit mit beliebigen Werkzeugen und allgemeinen Erklärungen verlieren? Im 1:1-Coaching arbeiten wir direkt an Ihren Aufgaben, Ihrer Rolle und Ihren Zielen.\n\nSie erhalten Orientierung, erproben passende Anwendungen und entwickeln Arbeitsweisen, die Sie nach dem Coaching selbstständig nutzen können. Das Coaching findet vertraulich und in Ihrem Tempo statt.",
+        "ctaLabel": "Coaching anfragen",
+        "ctaHref": "/kontakt?interesse=coaching"
+      }
+    },
+    {
+      "type": "cards",
+      "data": {
+        "items": [
+          {
+            "titel": "Für wen das Coaching gedacht ist",
+            "text": "- Führungskräfte, die Chancen und Grenzen von KI fundiert einschätzen möchten\n- Fachpersonen, die wiederkehrende Aufgaben effizienter erledigen wollen\n- Projektverantwortliche, die KI-Anwendungen bewerten oder einführen sollen\n- Selbstständige, die Kommunikation, Konzepte und Inhalte besser vorbereiten möchten\n- Lehrende und Vortragende, die Unterlagen und Lernformate weiterentwickeln möchten",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Mögliche Themen",
+            "text": "- E-Mails, Berichte, Konzepte und Präsentationen vorbereiten\n- Informationen recherchieren, vergleichen und strukturieren\n- Schulungsunterlagen und Fachrecherchen aufbereiten, etwa im medizinischen Bereich\n- Besprechungen planen und datenschutzkonform nachbereiten\n- Prompts entwickeln, prüfen und wiederverwenden\n- Eigene Wissenssammlungen und geeignete KI-Assistenten einrichten\n- Ergebnisse auf Fehler, Lücken und problematische Quellen prüfen\n- Persönliche Regeln für einen sicheren KI-Einsatz festlegen",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          }
+        ]
+      }
+    },
+    {
+      "type": "cards",
+      "data": {
+        "items": [
+          {
+            "titel": "1:1 KI Starter",
+            "text": "Der 90-minütige KI-Starter eignet sich für einen schnellen, persönlichen Einstieg. Vor dem Termin nennen Sie mir Ihre wichtigsten Fragen und Aufgaben. Im Coaching setzen wir erste Anwendungen gemeinsam um.\n\nSie nehmen konkrete Ergebnisse mit: individuell formulierte Prompts, passende Vorlagen, eine realistische Einschätzung der Möglichkeiten und klare nächste Schritte.\n\n**Preis:** {{facts.preise.starter}}",
+            "linkLabel": "1:1-Termin anfragen",
+            "href": "/kontakt?interesse=coaching",
+            "stil": "knopf"
+          },
+          {
+            "titel": "1:1 KI Kompetenzprogramm",
+            "text": "Das Kompetenzprogramm bietet mehr Zeit für Aufbau, Anwendung und Transfer. Die Einheiten werden modular zusammengestellt und können beispielsweise Recherche, Kommunikation, Präsentationen, Schulungsunterlagen, individuelle GPTs oder strategische Fragestellungen abdecken.\n\nZwischen den Terminen wenden Sie die erarbeiteten Methoden an. Im nächsten Gespräch klären wir offene Fragen, verbessern die Ergebnisse und entwickeln den Arbeitsablauf weiter.\n\n**Umfang und Preis:** {{facts.preise.programm}}",
+            "linkLabel": "Persönliches Coaching besprechen",
+            "href": "/kontakt?interesse=coaching",
+            "stil": "knopf"
+          }
+        ]
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Was Sie erwarten können",
+        "flaeche": "creme",
+        "text": "- Ein Coaching, das an Ihren tatsächlichen Aufgaben ansetzt\n- Verständliche Erklärungen ohne unnötigen Technikjargon\n- Praktische Übungen mit sofort nutzbaren Ergebnissen\n- Offene Hinweise zu Grenzen, Fehlerquellen und Datenschutz\n- Mehr Sicherheit im selbstständigen Umgang mit KI"
+      }
+    },
+    {
+      "type": "faq",
+      "data": {
+        "titel": "Häufige Fragen",
+        "items": [
+          {
+            "frage": "Brauche ich Vorkenntnisse?",
+            "antwort": "Nein. Das Coaching wird an Ihren bisherigen Erfahrungen ausgerichtet. Auch ein Einstieg ohne technische Vorkenntnisse ist möglich."
+          },
+          {
+            "frage": "Welche KI-Werkzeuge werden verwendet?",
+            "antwort": "Das richtet sich nach Ihren Aufgaben und den in Ihrer Organisation erlaubten Anwendungen. Entscheidend ist nicht die Anzahl der Werkzeuge, sondern deren sinnvoller und sicherer Einsatz."
+          },
+          {
+            "frage": "Darf ich vertrauliche Informationen verwenden?",
+            "antwort": "Vertrauliche, personenbezogene oder besonders schützenswerte Daten werden nicht in nicht freigegebene KI-Systeme eingegeben. Im Coaching arbeiten wir bei Bedarf mit anonymisierten oder eigens erstellten Beispielen."
+          },
+          {
+            "frage": "Findet das Coaching online oder vor Ort statt?",
+            "antwort": "1:1-Coachings sind online möglich. Termine vor Ort können nach Vereinbarung angeboten werden."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta",
+      "data": {
+        "titel": "Ihre Anfrage",
+        "text": "Beschreiben Sie mir kurz Ihre Rolle, Ihre wichtigsten Aufgaben und was Sie mit KI erreichen möchten. Ich melde mich mit einem Vorschlag für den passenden Einstieg.",
+        "ctaLabel": "Unverbindliche Anfrage senden",
+        "ctaHref": "/kontakt?interesse=coaching"
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "ki-bildung-lehre",
+  "page_type": "angebot",
+  "title": "KI Fortbildungen für Lehrende und Bildungseinrichtungen",
+  "description": "KI in Unterricht, Hochschule und Weiterbildung sinnvoll einsetzen. Trainings für Lehrende zu Vorbereitung, Lernmaterialien, Recherche und Qualität.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {}
+    },
+    {
+      "type": "hero",
+      "data": {
+        "pill": "Fortbildungen für Lehrende · Schulen · Hochschulen",
+        "titel": "Künstliche Intelligenz sinnvoll in der Lehre einsetzen",
+        "sub": "KI verändert, wie Inhalte vorbereitet, vermittelt und bearbeitet werden. Lehrende stehen dabei vor praktischen Fragen: Welche Anwendungen sparen tatsächlich Zeit? Wie lassen sich gute Lernaufgaben entwickeln? Wie werden Ergebnisse geprüft? Und welche Kompetenzen brauchen Lernende im Umgang mit KI?\n\nIn meinen Trainings arbeiten wir an konkreten Unterrichts- und Lehrsituationen. Ziel ist ein reflektierter Einsatz, der die fachliche und pädagogische Verantwortung der Lehrenden stärkt.",
+        "ctaLabel": "Fortbildung anfragen",
+        "ctaHref": "/kontakt?interesse=bildung",
+        "bild": "/uploads/b5b7abde-vortrag-bildung-lehre",
+        "bildAlt": "Trainerin am Rednerpult vor Publikum, Folie „AI & Future Learning“"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Anwendungsfelder",
+        "text": "- Unterrichts- und Seminarplanung strukturieren\n- Präsentationen, Handouts und Lernmaterialien vorbereiten\n- Texte zusammenfassen und an unterschiedliche Wissensstände anpassen\n- Aufgaben, Fallbeispiele und Diskussionsfragen entwickeln\n- Recherchewege vergleichen und Quellen kritisch prüfen\n- Feedbackentwürfe und Bewertungskriterien vorbereiten\n- Lernende zu einem verantwortungsvollen Umgang mit KI anleiten"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Für wen die Trainings geeignet sind",
+        "flaeche": "creme",
+        "text": "Die Angebote richten sich an Lehrende an Schulen und Hochschulen, Einrichtungen der Erwachsenenbildung, interne Trainerinnen und Trainer sowie Personen, die Bildungsangebote planen oder koordinieren.\n\nFormate für Schülerinnen, Schüler oder Studierende werden in Abstimmung mit der jeweiligen Bildungseinrichtung entwickelt und von einem klaren pädagogischen Rahmen begleitet."
+      }
+    },
+    {
+      "type": "cards",
+      "data": {
+        "titel": "Mögliche Workshopthemen",
+        "items": [
+          {
+            "titel": "Grundlagen der generativen KI",
+            "text": "Wie Sprachmodelle arbeiten, welche Ergebnisse realistisch sind und warum fachliche Kontrolle notwendig bleibt.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Prompting für Lehre und Weiterbildung",
+            "text": "Aufgaben klar formulieren, Kontext bereitstellen, Ergebnisse schrittweise verbessern und wiederverwendbare Vorlagen entwickeln.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Recherche und Wissensarbeit",
+            "text": "KI-gestützte Recherche sinnvoll einsetzen, Quellen nachverfolgen und Aussagen überprüfen.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Lernmaterialien und Präsentationen",
+            "text": "Inhalte strukturieren, unterschiedliche Darstellungsformen entwickeln und Materialien an Zielgruppen anpassen.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          },
+          {
+            "titel": "Regeln für den Einsatz im Unterricht",
+            "text": "Transparenz, Datenschutz, Eigenleistung und Qualitätsprüfung verständlich festlegen.",
+            "linkLabel": "",
+            "href": "",
+            "stil": "link"
+          }
+        ]
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Ergebnis",
+        "flaeche": "mint",
+        "text": "Die Teilnehmenden verlassen das Training mit konkreten Unterrichtsideen, erprobten Prompts, Vorlagen und klaren Kriterien für einen verantwortungsvollen Einsatz."
+      }
+    },
+    {
+      "type": "cta",
+      "data": {
+        "titel": "Anfrage",
+        "text": "Beschreiben Sie mir bitte die Bildungseinrichtung, die Zielgruppe und die gewünschten Schwerpunkte. Ich entwickle daraus ein passendes Fortbildungsformat.",
+        "ctaLabel": "Bildungsangebot besprechen",
+        "ctaHref": "/kontakt?interesse=bildung"
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ]
+}

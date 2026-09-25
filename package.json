@@ -1,0 +1,31 @@
+{
+  "name": "ki-native-website",
+  "version": "0.3.0",
+  "description": "KI-native Website von Karin Pieber",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\"",
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "bild": "node scripts/bild.js",
+    "seed": "node scripts/seed.js",
+    "golden": "node scripts/golden.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": "true",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.128.0",
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1",
+    "jsonrepair": "^3.15.0",
+    "nodemailer": "^10.0.10",
+    "pg": "^8.23.0",
+    "qrcode-generator": "^2.0.4",
+    "sharp": "^0.35.4"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

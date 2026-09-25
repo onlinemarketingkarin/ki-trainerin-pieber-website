@@ -1,0 +1,25 @@
+{
+  "farben": {
+    "grund": "#FDFAF7",
+    "flaeche": "#FAEADA",
+    "linie": "#E8DED4",
+    "text": "#1C1511",
+    "text-gedaempft": "#7A6B5A",
+    "signal": "#B5451B",
+    "signal-hell": "#E8835A",
+    "text-auf-signal": "#FFFFFF",
+    "akzent": "#2A5C4E",
+    "akzent-flaeche": "#E1F0EB",
+    "foto-grund": "#FFFFFF"
+  },
+  "schriften": {
+    "font-display": "'Cormorant Garamond', Georgia, 'Times New Roman', serif",
+    "font-body": "'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif"
+  },
+  "masse": {
+    "breite": "1120px",
+    "radius-karte": "20px",
+    "radius-knopf": "100px",
+    "abstand-section": "64px"
+  }
+}

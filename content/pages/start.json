@@ -1,0 +1,153 @@
+{
+  "slug": "start",
+  "page_type": "home",
+  "title": "1:1 KI Coaching und KI Trainings mit Karin Pieber",
+  "description": "TÜV-zertifizierte KI-Trainerin in Graz. Persönliche KI-Coachings und praxisnahe Trainings für Führungskräfte, Teams, Bildung und Gesundheitswesen.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {}
+    },
+    {
+      "type": "hero",
+      "data": {
+        "pill": "Mag. Karin Pieber · TÜV-zertifizierte KI-Trainerin",
+        "titel": "KI sicher nutzen.\nZeit gewinnen.\nKlarer entscheiden.",
+        "sub": "Individuelles KI-Coaching für Führungskräfte und Fachpersonen, die Künstliche Intelligenz verstehen und sinnvoll in ihren Arbeitsalltag integrieren möchten.\n\nVerständlich, praxisnah und direkt an Ihren eigenen Aufgaben. Mit einem klaren Blick auf Datenschutz, Qualität und menschliche Verantwortung.",
+        "ctaLabel": "Erstgespräch anfragen",
+        "ctaHref": "/kontakt",
+        "links": [
+          {
+            "label": "1:1-KI-Coaching kennenlernen",
+            "href": "/1-1-ki-coaching"
+          },
+          {
+            "label": "Trainings für Teams ansehen",
+            "href": "/ki-trainings-teams"
+          }
+        ],
+        "vertrauen": "TÜV-zertifizierte KI-Trainerin · Seit {{facts.beruf.sozialversicherung_seit}} in der österreichischen Sozialversicherung · {{facts.orte}}",
+        "bild": "/uploads/7d4b7143-portrait-karin-pieber",
+        "bildAlt": "Mag. Karin Pieber, lächelnd, mit pinkem Stirnband"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "KI soll Sie entlasten",
+        "text": "Viele Menschen möchten Künstliche Intelligenz nutzen, wissen aber nicht, womit sie beginnen sollen. Welche Werkzeuge passen zu den eigenen Aufgaben? Welche Informationen dürfen eingegeben werden? Wie lassen sich Ergebnisse prüfen? Und wie wird aus einzelnen Versuchen ein sinnvoller Arbeitsablauf?\n\nIm persönlichen Coaching klären wir genau diese Fragen. Wir arbeiten direkt an Ihren Aufgaben und entwickeln Lösungen, die Sie anschließend selbstständig weiterverwenden können."
+      }
+    },
+    {
+      "type": "cards",
+      "data": {
+        "titel": "Ihr persönlicher Einstieg",
+        "items": [
+          {
+            "titel": "1:1 KI Starter",
+            "text": "90 Minuten für Ihren persönlichen Schnellstart. Wir analysieren, wo KI Sie unmittelbar unterstützen kann, testen passende Anwendungen und entwickeln erste Arbeitsabläufe für Ihren Alltag.\n\n- Verständliche Orientierung zu Möglichkeiten und Grenzen\n- Konkrete Anwendungen für Ihre eigenen Aufgaben\n- Individuelle Prompts und wiederverwendbare Vorlagen\n- Hinweise zu Datenschutz und Qualitätsprüfung\n- Zusammenfassung der wichtigsten Ergebnisse",
+            "linkLabel": "1:1-Termin anfragen",
+            "href": "/kontakt?interesse=coaching",
+            "stil": "knopf"
+          },
+          {
+            "titel": "1:1 KI Kompetenzprogramm",
+            "text": "Eine individuelle Begleitung für Führungskräfte und Fachpersonen, die KI nicht nur ausprobieren, sondern sicher und strukturiert in ihre Arbeit integrieren möchten. Inhalte und Umfang werden auf Ihre Ziele abgestimmt.",
+            "linkLabel": "Persönliches Coaching besprechen",
+            "href": "/kontakt?interesse=coaching",
+            "stil": "knopf"
+          }
+        ]
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Trainings für Teams und Organisationen",
+        "flaeche": "creme",
+        "text": "Praxisorientierte Workshops für Unternehmen, öffentliche Einrichtungen, Bildungseinrichtungen und Teams im Gesundheitswesen. Die Teilnehmenden arbeiten mit realistischen Aufgaben aus ihrem Tätigkeitsbereich und erhalten sofort nutzbare Vorlagen und Arbeitsweisen.",
+        "ctaLabel": "Trainings für Teams ansehen",
+        "ctaHref": "/ki-trainings-teams"
+      }
+    },
+    {
+      "type": "cards",
+      "data": {
+        "titel": "Für Menschen mit Verantwortung",
+        "items": [
+          {
+            "titel": "Führungskräfte und Fachpersonen",
+            "text": "KI für Recherche, Kommunikation, Strukturierung, Vorbereitung und Entscheidungsfindung nutzen.",
+            "linkLabel": "Zum 1:1-Coaching",
+            "href": "/1-1-ki-coaching",
+            "stil": "link"
+          },
+          {
+            "titel": "Bildung und Lehre",
+            "text": "Unterricht, Lehrveranstaltungen und Weiterbildungen vorbereiten, Lernmaterialien entwickeln und einen verantwortungsvollen Umgang mit KI vermitteln.",
+            "linkLabel": "Zu Bildung und Lehre",
+            "href": "/ki-bildung-lehre",
+            "stil": "link"
+          },
+          {
+            "titel": "Gesundheitswesen",
+            "text": "Fachinformationen verständlich aufbereiten, Lehre und Forschungsvorbereitung unterstützen und administrative Arbeitsprozesse effizienter gestalten.",
+            "linkLabel": "Zum Gesundheitswesen",
+            "href": "/ki-gesundheitswesen",
+            "stil": "link"
+          }
+        ]
+      }
+    },
+    {
+      "type": "schritte",
+      "data": {
+        "titel": "So arbeite ich mit Ihnen",
+        "items": [
+          {
+            "titel": "Ziele klären",
+            "text": "Wir identifizieren Aufgaben, bei denen KI Ihnen tatsächlich Arbeit abnehmen kann."
+          },
+          {
+            "titel": "Gemeinsam ausprobieren",
+            "text": "Wir arbeiten live an Ihren Beispielen und prüfen die Ergebnisse."
+          },
+          {
+            "titel": "Transfer sichern",
+            "text": "Sie erhalten Vorlagen, Checklisten und konkrete nächste Schritte."
+          }
+        ]
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Verantwortung bleibt beim Menschen",
+        "flaeche": "mint",
+        "text": "KI ist ein vielseitiges Werkzeug. Sie kann Entwürfe erstellen, Informationen strukturieren und neue Perspektiven eröffnen. Sie ersetzt jedoch weder Fachwissen noch Verantwortung oder menschliches Urteilsvermögen.\n\nMein Ansatz ist menschenzentriert, praxisnah und sicherheitsbewusst."
+      }
+    },
+    {
+      "type": "person",
+      "data": {
+        "titel": "Über {{facts.name}}",
+        "text": "Ich bin TÜV-zertifizierte KI-Trainerin und Betriebswirtin. Seit {{facts.beruf.sozialversicherung_seit}} arbeite ich in der österreichischen Sozialversicherung und habe dort Content-Management, SEO und Projekte im Gesundheitsbereich umgesetzt. Meine Schwerpunkte liegen in den Bereichen digitale Transformation, Kommunikation und digitale Gesundheitslösungen.\n\nBeim KI KOERTING INSTITUTE wirke ich an KI-Ausbildungen mit und organisiere die Durchführung von KI-Personenzertifizierungen. Als Trainerin unterstütze ich Menschen und Teams dabei, einen verständlichen und verantwortungsvollen Zugang zu Künstlicher Intelligenz zu entwickeln.",
+        "ctaLabel": "Mehr über mich",
+        "ctaHref": "/ueber-mich"
+      }
+    },
+    {
+      "type": "cta",
+      "data": {
+        "titel": "Sprechen wir über Ihre Aufgaben",
+        "text": "Sie möchten herausfinden, wo KI Sie im Arbeitsalltag entlasten kann? Schreiben Sie mir kurz, welche Aufgaben Sie beschäftigen. Ich melde mich mit ersten konkreten Ideen für ein passendes Coaching oder Training.",
+        "ctaLabel": "Erstgespräch anfragen",
+        "ctaHref": "/kontakt"
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ]
+}

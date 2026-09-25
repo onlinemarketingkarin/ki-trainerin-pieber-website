@@ -1,0 +1,16 @@
+{
+  "allowedBlocks": [
+    "nav",
+    "richtext",
+    "formular",
+    "kontaktkarte",
+    "footer"
+  ],
+  "requiredBlocks": [
+    "nav",
+    "richtext",
+    "formular",
+    "kontaktkarte",
+    "footer"
+  ]
+}

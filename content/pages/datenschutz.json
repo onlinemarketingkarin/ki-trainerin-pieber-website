@@ -1,0 +1,29 @@
+{
+  "slug": "datenschutz",
+  "page_type": "rechtliches",
+  "title": "Datenschutzerklärung Karin Pieber",
+  "description": "Informationen zur Verarbeitung personenbezogener Daten auf der Website von Mag. Karin Pieber.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {
+        "ctaLabel": "",
+        "ctaHref": ""
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "ebene": "1",
+        "layout": "schmal",
+        "titel": "Datenschutzerklärung",
+        "text": "Der Schutz Ihrer persönlichen Daten ist mir wichtig. Personenbezogene Daten werden nur verarbeitet, soweit dies für den Betrieb dieser Website, die Beantwortung von Anfragen oder die Erfüllung gesetzlicher Pflichten erforderlich ist.\n\n## Verantwortliche\n\n{{facts.name}}\n{{facts.anschrift.strasse}}, {{facts.anschrift.plz}} {{facts.anschrift.ort}}, {{facts.anschrift.land}}\nE-Mail: [{{facts.email}}](mailto:{{facts.email}})\nTelefon: [{{facts.telefon}}](tel:{{facts.abgeleitet.telefon_link}})\n\n## Aufruf der Website\n\nBeim Aufruf der Website verarbeitet der Hostinganbieter technisch erforderliche Verbindungsdaten. Dazu können IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene Seite, übertragene Datenmenge, Browsertyp und Betriebssystem gehören. Die Verarbeitung dient der sicheren und stabilen Bereitstellung der Website.\n\nHostinganbieter: {{facts.hosting.anbieter}}\nServerstandort: {{facts.hosting.standort}}\nSpeicherdauer der Zugriffsdaten: {{facts.hosting.speicherdauer}}\nRechtsgrundlage: {{facts.hosting.rechtsgrundlage}}\n\n## Kontaktaufnahme\n\nWenn Sie per E-Mail, Telefon oder Kontaktformular Kontakt aufnehmen, werden Ihre Angaben zur Bearbeitung der Anfrage und für mögliche Anschlussfragen verarbeitet. Die Daten werden nicht ohne Rechtsgrundlage an Dritte weitergegeben.\n\nSpeicherdauer der Anfragen: {{facts.kontaktformular.speicherdauer}}\nE-Mail-Versand: {{facts.kontaktformular.dienst}}\n\n## Cookies und externe Dienste\n\nDiese Website verwendet keine nicht erforderlichen Cookies und keine externen Tracking-Dienste. Die Schriftarten werden von diesem Server ausgeliefert, nicht von einem externen Anbieter. Werden später Analysedienste, eingebettete Videos, Terminbuchungen oder vergleichbare Dienste ergänzt, wird diese Datenschutzerklärung vor deren Aktivierung angepasst und eine erforderliche Einwilligung eingeholt.\n\n## Ihre Rechte\n\nSie haben nach Maßgabe der gesetzlichen Voraussetzungen das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch. Eine erteilte Einwilligung kann mit Wirkung für die Zukunft widerrufen werden.\n\nWenn Sie der Ansicht sind, dass die Verarbeitung Ihrer Daten gegen Datenschutzrecht verstößt, können Sie sich an die österreichische Datenschutzbehörde wenden.\n\n## Datensicherheit\n\nEs werden angemessene technische und organisatorische Maßnahmen eingesetzt, um personenbezogene Daten vor Verlust, unbefugtem Zugriff und Missbrauch zu schützen. Die Website wird verschlüsselt über HTTPS bereitgestellt.\n\n## Aktualisierung\n\nDiese Datenschutzerklärung wird angepasst, wenn sich Funktionen, eingesetzte Dienste oder gesetzliche Anforderungen ändern."
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ],
+  "status": "draft"
+}

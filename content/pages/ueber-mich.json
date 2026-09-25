@@ -1,0 +1,73 @@
+{
+  "slug": "ueber-mich",
+  "page_type": "ueber-mich",
+  "title": "Über Karin Pieber, TÜV-zertifizierte KI-Trainerin",
+  "description": "Mag. Karin Pieber verbindet KI-Training mit langjähriger Erfahrung im Gesundheitswesen, in der Sozialversicherung und in digitalen Projekten.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {}
+    },
+    {
+      "type": "person",
+      "data": {
+        "kicker": "{{facts.name}}",
+        "ebene": "1",
+        "titel": "Künstliche Intelligenz verständlich vermitteln",
+        "text": "Ich bin Betriebswirtin und TÜV-zertifizierte AI-Trainerin. Seit {{facts.beruf.sozialversicherung_seit}} arbeite ich in der österreichischen Sozialversicherung. Dabei habe ich Content-Management, SEO, digitale Projekte und Gesundheitskommunikation umgesetzt und nutzerfreundliche Informationsangebote begleitet.\n\nHeute verbinde ich diese Erfahrung mit praxisnaher KI-Vermittlung. Ich unterstütze Menschen dabei, Künstliche Intelligenz realistisch einzuschätzen, sicher anzuwenden und für konkrete Aufgaben zu nutzen.",
+        "bild": "/uploads/7d4b7143-portrait-karin-pieber",
+        "bildAlt": "Mag. Karin Pieber, lächelnd, mit pinkem Stirnband"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Beruflicher Hintergrund",
+        "text": "Seit {{facts.beruf.bvaeb_seit}} arbeite ich in der Öffentlichkeitsarbeit der BVAEB. Meine Aufgaben umfassen digitale Kommunikation, Content-Management, SEO, Webprojekte und die Koordination digitaler Entwicklungen.\n\nSeit {{facts.koerting.seit}} bin ich {{facts.koerting.rolle}} für die TÜV-Personenzertifizierungsprogramme {{facts.koerting.programme}} beim {{facts.koerting.organisation}}. Dadurch kenne ich sowohl die praktische Vermittlung als auch die organisatorischen und qualitativen Anforderungen professioneller KI-Weiterbildung.\n\nMeine Coachings und Trainings sind ein eigenständiges Angebot und kein Angebot der BVAEB."
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Qualifikationen",
+        "flaeche": "creme",
+        "text": "- {{facts.zertifikat.stelle}} zertifizierte AI-Trainerin, Zertifikat gültig von {{facts.zertifikat.gueltig_von}} bis {{facts.zertifikat.gueltig_bis}}\n- Ausbildung am AI Training Institute mit Schwerpunkten Sprachmodelle, Prompt Design, KI-Werkzeuge, Trainingsdesign und Blended Learning\n- KI in der Wirtschaft und Advanced Prompt Engineering, WIFI Steiermark\n- Studium der Sozial- und Wirtschaftswissenschaften an der Universität Graz\n- Diplom Web- und Social-Media-Marketing-Management am WIFI Steiermark"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Meine Arbeitsweise",
+        "text": "Ich vermittle KI ohne unnötigen Technikjargon und arbeite mit Beispielen, die für die Teilnehmenden tatsächlich relevant sind. In Coachings und Workshops wird nicht nur gezeigt, was ein Werkzeug kann. Die Teilnehmenden lernen auch, wie sie Ergebnisse prüfen, Grenzen erkennen und geeignete Regeln für den eigenen Arbeitsbereich entwickeln.\n\nMir ist wichtig, dass Menschen durch KI kompetenter und selbstständiger werden. Technologie soll menschliche Fähigkeiten unterstützen. Verantwortung, Fachwissen und Entscheidungen bleiben beim Menschen."
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Wofür ich stehe",
+        "flaeche": "mint",
+        "text": "- Verständliche Vermittlung und Lernen auf Augenhöhe\n- Praxisbezug statt allgemeiner Werkzeugvorführungen\n- Offener Umgang mit Fehlern, Grenzen und Risiken\n- Verantwortungsvoller und datenschutzbewusster Einsatz\n- Technologie, die Menschen in ihrer Arbeit unterstützt"
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "titel": "Persönlich",
+        "text": "Als Mutter von drei Kindern kenne ich unterschiedliche Zugänge zu Lernen, Technologie und Veränderung. Diese Erfahrung prägt meine Arbeit als Trainerin: Menschen lernen am besten, wenn sie Fragen stellen dürfen, Zusammenhänge verstehen und neue Werkzeuge selbst ausprobieren können."
+      }
+    },
+    {
+      "type": "cta",
+      "data": {
+        "titel": "Lernen wir uns kennen",
+        "text": "Schreiben Sie mir kurz, wobei Künstliche Intelligenz Sie unterstützen soll. Ich melde mich persönlich bei Ihnen.",
+        "ctaLabel": "Persönliches Gespräch vereinbaren",
+        "ctaHref": "/kontakt"
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ]
+}

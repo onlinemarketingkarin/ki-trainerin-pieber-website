@@ -1,0 +1,37 @@
+{
+  "slug": "kontakt",
+  "page_type": "kontakt",
+  "title": "Kontakt und Anfrage an KI Trainerin Karin Pieber",
+  "description": "Fragen Sie ein persönliches KI-Coaching oder ein Training für Ihr Team an. Mag. Karin Pieber ist in Graz und remote tätig.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {
+        "ctaLabel": "",
+        "ctaHref": ""
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "ebene": "1",
+        "titel": "Sprechen wir über Ihre Aufgaben",
+        "text": "Sie interessieren sich für ein persönliches KI-Coaching, einen Workshop oder einen Vortrag? Schreiben Sie mir kurz, für wen das Angebot gedacht ist und wobei Künstliche Intelligenz unterstützen soll.\n\nFür eine erste Einschätzung helfen folgende Angaben:\n\n- Ihre Rolle oder Organisation\n- Gewünschtes Format: 1:1-Coaching, Workshop, Trainingsreihe oder Vortrag\n- Zielgruppe und ungefähre Teilnehmerzahl\n- Themen oder Aufgaben, die im Mittelpunkt stehen sollen\n- Gewünschter Zeitraum und online oder vor Ort\n\nIch melde mich persönlich mit Rückfragen oder einem Vorschlag für das weitere Vorgehen."
+      }
+    },
+    {
+      "type": "formular",
+      "data": {
+        "titel": "Ihre Anfrage"
+      }
+    },
+    {
+      "type": "kontaktkarte",
+      "data": {}
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ]
+}

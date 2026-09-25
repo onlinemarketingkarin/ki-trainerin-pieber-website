@@ -1,0 +1,29 @@
+{
+  "slug": "impressum",
+  "page_type": "rechtliches",
+  "title": "Impressum Karin Pieber",
+  "description": "Impressum der Website von Mag. Karin Pieber, KI-Trainerin in Graz.",
+  "blocks": [
+    {
+      "type": "nav",
+      "data": {
+        "ctaLabel": "",
+        "ctaHref": ""
+      }
+    },
+    {
+      "type": "richtext",
+      "data": {
+        "ebene": "1",
+        "layout": "schmal",
+        "titel": "Impressum",
+        "text": "## Medieninhaberin und Websitebetreiberin\n\n{{facts.name}}\n{{facts.anschrift.strasse}}\n{{facts.anschrift.plz}} {{facts.anschrift.ort}}\n{{facts.anschrift.land}}\n\n## Kontakt\n\nE-Mail: [{{facts.email}}](mailto:{{facts.email}})\nTelefon: [{{facts.telefon}}](tel:{{facts.abgeleitet.telefon_link}})\n\n## Unternehmensgegenstand\n\n{{facts.recht.gegenstand}}\n\n## Rechtsform\n\n{{facts.recht.status}}\n\n## Medienrechtliche Offenlegung\n\nMedieninhaberin: {{facts.name}}, {{facts.anschrift.ort}}\nGrundlegende Richtung: Information über Coachings, Trainings und Vorträge zu Künstlicher Intelligenz sowie über die berufliche Tätigkeit der Medieninhaberin.\n\n## Haftung für Inhalte und Links\n\nDie Inhalte dieser Website werden sorgfältig erstellt und regelmäßig überprüft. Für Aktualität, Vollständigkeit und Richtigkeit kann dennoch keine Gewähr übernommen werden. Verlinkte externe Seiten liegen außerhalb des Verantwortungsbereichs der Websitebetreiberin. Für deren Inhalte sind ausschließlich die jeweiligen Betreiber verantwortlich.\n\n## Urheberrecht\n\nTexte, Bilder und sonstige Inhalte dieser Website dürfen nur mit vorheriger Zustimmung der Rechteinhaberin verwendet oder vervielfältigt werden, soweit keine gesetzliche Ausnahme besteht."
+      }
+    },
+    {
+      "type": "footer",
+      "data": {}
+    }
+  ],
+  "status": "draft"
+}
